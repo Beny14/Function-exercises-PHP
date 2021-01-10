@@ -137,4 +137,6 @@
     // }
     // echo area(CIRCLE, 4);
 
+    echo "<h1 style='text-align:center;'>Exemplele sunt puse in '<span style='color:green;'>comentarii</span>', nu se va afisa nimic pe pagina, deschide-ti fisierul cu ajutorul unui editor code!</h1>";
+
 ?>
